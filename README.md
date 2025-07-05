@@ -2,7 +2,7 @@
 <h3 align="center">Full stack Developer | Python Expert | AI Enthusiast | UI/UX Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Next.js+Developer+%7C+Tailwind+Lover;Building+beautiful+UIs+with+Figma;Exploring+Python+and+AI;Thanks+for+visiting!+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Summiya+Ashraf!;Full+Stack+Developer+%F0%9F%92%BB;Python+Expert+%F0%9F%90%8D;AI+and+LLM+Enthusiast+%F0%9F%A4%96;UI%2FUX+Designer+%F0%9F%96%8C%EF%B8%8F;Thanks+for+visiting+my+GitHub!+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
 ---
